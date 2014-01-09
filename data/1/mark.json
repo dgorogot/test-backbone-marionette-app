@@ -1,0 +1,46 @@
+{
+	"rating": [
+		{
+			"pupil": "bohdan senyk",
+			"marks": [
+				{
+					"date": "11.11",
+					"mark": 155
+				},
+				{
+					"date": "12.11",
+					"mark": 4
+				},
+				{
+					"date": "12.11",
+					"mark": 4
+				},
+				{
+					"date": "13.11",
+					"mark": 3
+				}
+			]
+		},
+		{
+			"pupil": "roman dfdfjhbll",
+			"marks": [
+				{
+					"date": "12.11",
+					"mark": 1
+				},
+				{
+					"date": "11.11",
+					"mark": 100
+				},
+				{
+					"date": "12.11",
+					"mark": 1
+				},
+				{
+					"date": "13.11",
+					"mark": 1
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,73 @@
+[
+        {
+            "id"	: 1,
+			"name"  : "Level 0a",
+            "ages"	: "3-5"
+        },
+
+        {
+            "id"	: 2,
+			"name"	: "Level 0b",
+            "ages"	: "4-6"
+        },
+
+        {
+            "id"	: 3,
+			"name"	: "Level 0c",
+            "ages"	: "7-8"
+        },
+		
+		{
+            "id"	: 4,
+			"name"	: "Level 1",
+            "ages"	: "7-8"
+        },
+		
+		{
+            "id"	: 5,
+			"name"	: "Level 2",
+            "ages"	: "7-8"
+        },
+		
+		{
+            "id"	: 6,
+			"name"	: "Level 3",
+            "ages"	: "7-8"
+        },
+		
+		{
+            "id"	: 7,
+			"name"	: "Level 4",
+            "ages"	: "7-8"
+        },
+		
+		{
+            "id"	: 8,
+			"name"	: "Level 5",
+            "ages"	: "7-8"
+        },
+		
+		{
+            "id"	: 9,
+			"name"	: "Level 6",
+            "ages"	: "7-8"
+        },
+		
+		{
+            "id"	: 10,
+			"name"	: "Club 1",
+            "ages"	: "7-8"
+        },
+		
+		{
+            "id"	: 11,
+			"name"	: "Club 2",
+            "ages"	: "7-8"
+        },
+
+        {
+            "id"	: 12,
+			"name"	: "Club 3",
+            "ages"	: "1-2"
+        }
+]

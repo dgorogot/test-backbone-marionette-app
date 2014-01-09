@@ -1,0 +1,1 @@
+MyApp.GroupRatingCollection= Backbone.Collection.extend({});
