@@ -1,0 +1,1 @@
+image:: https://ci6.googleusercontent.com/proxy/ZQPcPN4-dWyxzKCO94Jth98PRR-ZA6YaDY4oM0J8CbtMa2y2PSFYNtS_rVtuHFmv1WmORGXMc-W37kzmboT3GSBpqVg=s0-d-e1-ft#https://wizzair.com/einvoice/img/wizz_logo.gif
